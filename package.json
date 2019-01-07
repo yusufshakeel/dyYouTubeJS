@@ -1,0 +1,32 @@
+{
+  "name": "dyyoutubejs",
+  "version": "0.0.1",
+  "description": "This is a small plugin to lazy load YouTube videos in your blogs and websites.",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yusufshakeel/dyYouTubeJS.git"
+  },
+  "keywords": [
+    "youtube",
+    "videos",
+    "iframe",
+    "lazy-load"
+  ],
+  "author": "Yusuf Shakeel",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yusufshakeel/dyYouTubeJS/issues"
+  },
+  "homepage": "https://github.com/yusufshakeel/dyYouTubeJS#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "grunt": "^1.0.3",
+    "grunt-contrib-cssmin": "^3.0.0",
+    "grunt-contrib-sass": "^1.0.0",
+    "grunt-contrib-uglify": "^4.0.0"
+  }
+}
