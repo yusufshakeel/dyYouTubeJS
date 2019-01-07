@@ -1,2 +1,2 @@
-# dyYTLazyLoadJS
-This small plugin will lazy load YouTube embed videos on your blogs and websites.
+# dyYouTubeJS
+This is a small plugin to lazy load YouTube videos in your blogs and websites.
